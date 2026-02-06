@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @xX-Guru-Xx
-- 👀 I’m interested in colloaberting on open source projects.
-- 🌱 I’m currently learning more C#.
+Its agents all the way down
 
 <!---
 xX-Guru-Xx/xX-Guru-Xx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
